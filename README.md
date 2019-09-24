@@ -2,4 +2,4 @@
 
 https://amlilly.github.io/rock-paper-scissors/
 
-A simple rock - paper - scissors game
+A rock - paper - scissors game

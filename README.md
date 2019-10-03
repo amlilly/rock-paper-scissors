@@ -8,4 +8,4 @@ The user selects their choice of rock, paper or scissors to go up against the co
 
 May the best move win
 
-RPS!
+RPS!!!
